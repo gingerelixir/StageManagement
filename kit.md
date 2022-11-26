@@ -18,6 +18,8 @@
 * Safety Pins (various sizes)
 * Pasties
 * Spare Rhinestones
+* Pantyhose
+* Fishnets
 
 ### First Aid
 
@@ -77,6 +79,7 @@
 * Hair Brush
 * Makeup wipes
 * Eyelash glue
+* Glam Jam
 
 ### House
 
