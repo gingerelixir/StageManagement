@@ -16,6 +16,8 @@
 * Gemtac
 * Super Glue
 * Safety Pins (various sizes)
+* Pasties
+* Spare Rhinestones
 
 ### First Aid
 
@@ -74,6 +76,7 @@
 * Comb
 * Hair Brush
 * Makeup wipes
+* Eyelash glue
 
 ### House
 
